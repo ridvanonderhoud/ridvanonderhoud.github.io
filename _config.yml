@@ -4,8 +4,8 @@ email: info@ridvanonderhoud.nl
 url: https://ridvanonderhoud.nl/
 description: "Ridvan Onderhoud is toonaangevend in zakelijk en particulier onderhoud. Wij bieden een uniek en volledig onderhoudspakket waarin gedegen vakmanschap, heldere adviezen, goede communicate, en eerlijke prijzen centraal staan."
 keywords: "vakmanschap, renovaties, onderhoud, schilderswerk, schilderswerkzaamheden, buitenschilderwerk, binnenschilderwerk, wandafwerking, sausen, houtrotreparaties."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Nieuwbouw, Renovatie, Onderhoud, Schilderswerk"
+meta_author: Ali Ridvan
 
 # Google webmaster tools
 google_verify:
@@ -33,16 +33,17 @@ color:
 # Footer settings
 footer:
   copyright: ridvanonderhoud.nl
-  location: Leidschendam-Voorburg, Zuid-Holland
-  social: Around the Web
-  credits: Credits
+  location: Adres
+  telephone: Telefoon
+  credits: Bedrijfsgegevens
+  social: Social
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/
   - title: facebook
-    url:
+    url: http://facebook.com/
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket
@@ -52,12 +53,20 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rozenlaan 20,
+  - line: Rozenlaan 20
   - line: Leidschendam, 2264TS
+  - line: Leidschendam-Voorburg
+  - line: Zuid-Holland
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits:
+  - line: 'KvK: 55325483'
+  - line: 'BTW: 358386081B01'
+  - line: 'IBAN: NL63ABNA0584461771'
 
+telephone:
+  - line: '06 16 17 99 31'
 # Build settings
 markdown: kramdown
 permalink: pretty
