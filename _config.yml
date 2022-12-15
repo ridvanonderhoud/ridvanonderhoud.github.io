@@ -4,7 +4,7 @@ email: info@ridvanonderhoud.nl
 url: https://ridvanonderhoud.nl/
 description: "Ridvan Onderhoud is toonaangevend in zakelijk en particulier onderhoud. Wij bieden een uniek en volledig onderhoudspakket waarin gedegen vakmanschap, heldere adviezen, goede communicate, en eerlijke prijzen centraal staan."
 keywords: "vakmanschap, renovaties, onderhoud, schilderswerk, schilderswerkzaamheden, buitenschilderwerk, binnenschilderwerk, wandafwerking, sausen, houtrotreparaties."
-skills: "Nieuwbouw, Renovatie, Onderhoud, Schilderswerk"
+skills: "Nieuwbouw, Renovatie, Onderhoud en Schilderswerk in de regio Den Haag"
 meta_author: Ali Ridvan
 
 # Google webmaster tools
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
