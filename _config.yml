@@ -54,8 +54,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Rozenlaan 20
-  - line: Leidschendam, 2264TS
   - line: Leidschendam-Voorburg
+  - line: 2264TS
   - line: Zuid-Holland
 
 # Credits content
